@@ -72,9 +72,9 @@ const Hero: React.FC = () => {
                 <a href='#catalog'  className="bg-orange-500 hover:bg-orange-600 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-300 transform hover:scale-105 shadow-lg">
                   View Our Catalog
                 </a>
-                <button className="border-2 border-white text-white hover:bg-white hover:text-gray-900 px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-300 transform hover:scale-105">
+                <a href="#contact" className="border-2 border-white text-white hover:bg-white hover:text-gray-900 px-8 py-4 rounded-lg font-semibold text-lg transition-all duration-300 transform hover:scale-105">
                   Get Free Quote
-                </button>
+                </a>
               </div>
 
               <div className="flex items-center justify-center space-x-1 text-yellow-400">
